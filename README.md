@@ -39,67 +39,25 @@ I'm **Varad**, an **AI & Data Science undergraduate** passionate about building 
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
-### 🖥 Programming
-<div align="left">
+### 🖥️ Programming & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,git,github" height="45"/>  
-  <br>
-  **Python • SQL • HTML/CSS • Bash • Git • JavaScript**
+### 📦 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
+### 🤖 Machine Learning & Deep Learning
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-102230?style=for-the-badge) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-0B3D91?style=for-the-badge) ![Classification](https://img.shields.io/badge/Classification-1F4E79?style=for-the-badge) ![Regression](https://img.shields.io/badge/Regression-154360?style=for-the-badge) ![Ensemble Methods](https://img.shields.io/badge/Ensemble%20Methods-1A5276?style=for-the-badge) ![Cross Validation](https://img.shields.io/badge/Cross--Validation-17202A?style=for-the-badge) ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-212F3D?style=for-the-badge) ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-1B2631?style=for-the-badge)
 
----
+### 🗣️ NLP & Generative AI
+![Tokenization](https://img.shields.io/badge/Tokenization-5A5A5A?style=for-the-badge) ![Embeddings](https://img.shields.io/badge/Embeddings-232F3E?style=for-the-badge) ![Seq2Seq Models](https://img.shields.io/badge/Seq2Seq%20Models-3D3D3D?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge) ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-1A1A2E?style=for-the-badge) ![BLEU & ROUGE](https://img.shields.io/badge/BLEU%20%26%20ROUGE%20Eval-2C3E50?style=for-the-badge)
 
-### 📦 Libraries
-<div align="left">
+### 👁️ Computer Vision
+![Object Detection](https://img.shields.io/badge/Object%20Detection-0D1117?style=for-the-badge) ![Image Classification](https://img.shields.io/badge/Image%20Classification-161B22?style=for-the-badge) ![Real-Time Inference](https://img.shields.io/badge/Real--Time%20Inference-21262D?style=for-the-badge) ![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-30363D?style=for-the-badge) ![OpenCV Pipelines](https://img.shields.io/badge/OpenCV%20Pipelines-5C3317?style=for-the-badge)
 
-  <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,pytorch" height="45"/>  
-  <br>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-  <br>
-  **Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow • PyTorch • Keras • OpenCV**
-
-</div>
-
----
-
-### 🤖 Domains
-<div align="left">
-
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-0B3D91?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-5A5A5A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLMs-232F3E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0D1017?style=flat-square"/>
-
-  <br>
-  **Machine Learning • Deep Learning • NLP • LLMs • Computer Vision**
-
-</div>
-
----
-
-### 🚀 Deployment
-<div align="left">
-
-  <img src="https://skillicons.dev/icons?i=flask,streamlit" height="45"/>  
-  <br>
-
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-  <br>
-  **Flask • Streamlit • Gradio • GitHub • Google Colab • Jupyter**
-
-</div>
+### 🚀 Deployment & MLOps
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ---
